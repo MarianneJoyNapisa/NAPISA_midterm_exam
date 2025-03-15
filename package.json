@@ -1,0 +1,23 @@
+{
+  "name": "napisa_midterm_exam",
+  "version": "1.0.0",
+  "main": "question3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianneJoyNapisa/NAPISA_midterm_exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarianneJoyNapisa/NAPISA_midterm_exam/issues"
+  },
+  "homepage": "https://github.com/MarianneJoyNapisa/NAPISA_midterm_exam#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
