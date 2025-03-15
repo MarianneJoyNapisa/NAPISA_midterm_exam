@@ -1,9 +1,9 @@
 In running files:
 
 Download first: 
-npm init -y
-npm install
-npm install express
+npm init -y,
+npm install,
+npm install express,
 npm install sequelize
 
 How to Run question2.js
